@@ -20,5 +20,11 @@
   "bugs": {
     "url": "https://github.com/seanmcgary/broadcast-client/issues"
   },
-  "homepage": "https://github.com/seanmcgary/broadcast-client"
+  "homepage": "https://github.com/seanmcgary/broadcast-client",
+  "dependencies": {
+    "q": "~1.1.2",
+    "lodash": "~3.0.0",
+    "socket.io-client": "~1.3.2",
+    "logwrangler": "~0.1.5"
+  }
 }
